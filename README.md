@@ -1,1 +1,1 @@
-This is Spotify clone
+This is Photography website
